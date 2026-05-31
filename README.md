@@ -1,3 +1,5 @@
+> **Note:** This project was originally developed in 2018-2020 and migrated from a previous GitHub account ([@AjayShekar01](https://github.com/AjayShekar01)) due to account access issues.
+
 # HAPI-FHIR Starter Project
 
 This project is a complete starter project you can use to deploy a FHIR server using HAPI FHIR JPA.
